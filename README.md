@@ -3,7 +3,6 @@ Project Brief:
 For this project, I was tasked with creating a dashboard that effectively displays data, allows user interaction, and provides meaningful insights. 
 The primary focus was demonstrating a solid understanding of data visualization principles while ensuring a seamless and interactive user experience.
 
-  
 My Approach:
 
 Building on my design approach from a previous project—where I created a landing page for a music store—I decided to align this dashboard with the same theme. 

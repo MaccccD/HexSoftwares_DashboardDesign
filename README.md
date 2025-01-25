@@ -9,9 +9,13 @@ Building on my design approach from a previous project—where I created a landi
 The visualizations in this project are aimed at providing visitors to the store’s page with valuable information about the products sold. 
 This includes insights into sales trends, customer behaviour, and profitability, giving users a comprehensive view of the store’s performance.
 The visualizations are specifically designed to educate users about:
+
 -Sales Performance: Highlighting top-selling products and trends over time.
+
 -Profitability: Showcasing revenue and profit margins from the most popular products.
+
 -Customer Insights & Engagement: Providing details on customer demographics and purchasing habits.
+
 -Customer Satisfaction: Measuring satisfaction levels and identifying areas for improvement.
  
 By focusing on these Key Performance Indicators (KPIs), the dashboard delivers actionable insights and enhances user understanding of the store's operations.

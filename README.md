@@ -18,4 +18,5 @@ The visualizations are specifically designed to educate users about:
 
 -Customer Satisfaction: Measuring satisfaction levels and identifying areas for improvement.
  
+
 By focusing on these Key Performance Indicators (KPIs), the dashboard delivers actionable insights and enhances user understanding of the store's operations.
